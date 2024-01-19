@@ -1,0 +1,20 @@
+Q1. A server port is a logical endpoint in a network communication system that uniquely identifies an application or service running to which data is being direction. The run on the software and not the hardware level of an operating system. 
+
+Q2. Server ports range from 0 to 65535. Those exist in 3 ranges which include well known ports, registered ports and dynamic or 'private' ports. 
+
+Q3. The number 655345 is a 16 bit number
+
+Q4. Ten Common server ports and their uses:
+
+Port 20 & 21 - FTP (File Transfer Protocol)
+Port 20 is used for data transfer.
+Port 21 is used for command control.
+Port 22 - SSH (Secure Shell)
+Port 23 - Telnet
+Port 25 - SMTP (Simple Mail Transfer Protocol)
+Port 53 - DNS (Domain Name System)
+Port 80 - HTTP (Hypertext Transfer Protocol)
+Port 110 - POP3 (Post Office Protocol version 3)
+Port 143 - IMAP (Internet Message Access Protocol)
+Port 443 - HTTPS (HTTP Secure)
+Port 3306 - MySQL
